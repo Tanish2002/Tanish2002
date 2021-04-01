@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/Tanish2002/stats/master/generated/overview.svg?token=ANHK5JOXDJDZSL47KB5AJLLAN3WWO)
+![](https://github-readme-stats.vercel.app/api?username=Tanish2002&show_icons=true&count_private=true&include_all_commits=true)
