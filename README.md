@@ -2,7 +2,7 @@
 <img align='right' src="./.github/batman-doge.gif" width="350">
 
 [![Twitter: baka_otaku2002](https://img.shields.io/twitter/follow/baka_otaku2002?style=social)](https://twitter.com/baka_otaku2002)
-[![Linkedin: Tanish Khare](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanish-khare-144032169/)](https://www.linkedin.com/in/tanish-khare-144032169/)
+[![Linkedin: Tanish Khare](https://img.shields.io/badge/-TanishKhare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanish-khare-144032169/)](https://www.linkedin.com/in/tanish-khare-144032169/)
 [![GitHub Tanish2002](https://img.shields.io/github/followers/Tanish2002?label=follow&style=social)](https://github.com/Tanish2002)
 ![](https://komarev.com/ghpvc/?username=Tanish2002&color=83d1a2)
 
